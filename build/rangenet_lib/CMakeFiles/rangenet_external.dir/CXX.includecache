@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/these/catkin_ws/src/rangenet_lib/include/external.hpp
+
+/home/these/catkin_ws/src/rangenet_lib/src/external.cpp
+external.hpp
+/home/these/catkin_ws/src/rangenet_lib/src/external.hpp
+iostream
+-
+

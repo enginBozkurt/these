@@ -1,0 +1,8 @@
+prefix=/home/these/catkin_ws/install
+
+Name: ouster_driver
+Description: Description of ouster_driver
+Version: 0.1.7
+Cflags: -I/home/these/catkin_ws/install/include
+Libs: -L/home/these/catkin_ws/install/lib -louster_driver
+Requires: pcl_ros pcl_conversions roscpp message_runtime std_msgs sensor_msgs

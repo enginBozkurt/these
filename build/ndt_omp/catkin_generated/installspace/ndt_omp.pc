@@ -1,0 +1,8 @@
+prefix=/home/these/catkin_ws/install
+
+Name: ndt_omp
+Description: Description of ndt_omp
+Version: 0.0.0
+Cflags: -I/home/these/catkin_ws/install/include
+Libs: -L/home/these/catkin_ws/install/lib -lndt_omp
+Requires: 
