@@ -1,0 +1,1 @@
+./devel/lib/rangenet_lib/infer -p /home/these/darknet53 -s /home/these/catkin_ws/src/rangenet_lib/example/000000.bin --verbose

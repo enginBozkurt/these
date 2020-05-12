@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/these/catkin_ws/src/these/build/devel/setup.sh
